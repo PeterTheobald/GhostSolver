@@ -1,0 +1,55 @@
+Player goes first: winning words:
+
+a: No winning words
+b: No winning words
+c: No winning words
+d: No winning words
+e: No winning words
+f: No winning words
+g: No winning words
+h: ['hack', 'hegemony', 'hick', 'hoar', 'hues', 'hybrid']
+i: No winning words
+j: ['jack', 'jest', 'jigs', 'jobs', 'just']
+k: No winning words
+l: No winning words
+m: ['maze', 'meek', 'meet', 'mien', 'mnemonic', 'moan', 'moat', 'muff', 'myth']
+n: No winning words
+o: No winning words
+p: No winning words
+q: No winning words
+r: ['raft', 'relate', 'relating', 'relent', 'relish', 'reload', 'reluctance', 'rely', 'rhapsody', 'rill', 'rock', 'ruin']
+s: No winning words
+t: No winning words
+u: No winning words
+v: No winning words
+w: No winning words
+y: No winning words
+z: ['zeal', 'zinc', 'zodiac']
+
+Adversary goes first: winning words:
+
+a: ['ahead']
+b: ['black', 'bleed', 'blimp', 'bloat', 'bluff']
+c: ['clarity', 'cleft', 'cliff', 'cloak', 'cluck']
+d: ['draft', 'dregs', 'drift', 'droll', 'drunk', 'dryly']
+e: ['equal', 'equator']
+f: ['frail', 'freak', 'friar', 'frock', 'fruit']
+g: ['graft', 'grenade', 'grill', 'groan', 'gruff']
+h: No winning words
+i: ['illegal']
+j: No winning words
+k: ['knack', 'knead', 'knife', 'knifing', 'knock', 'knuckle']
+l: ['lying', 'lymph', 'lynch', 'lyric']
+m: No winning words
+n: ['nylon', 'nymph']
+o: ['ozone']
+p: ['pneumatic']
+q: ['quack', 'quell', 'quick', 'quonset']
+r: No winning words
+s: ['squeamish', 'squeeze', 'squeezing', 'squelch']
+t: ['twain', 'tweed', 'twice', 'twofold']
+u: ['ulcer', 'ultra']
+v: ['vulture']
+w: ['whack', 'wheat', 'which', 'whoop']
+y: ['yield']
+z: No winning words
